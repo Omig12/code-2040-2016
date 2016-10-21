@@ -1,7 +1,7 @@
 # Israel O. Dilan-Pantojas
-# 801-11-2035
+# israel.dilan@upr.edu
 # Code 2040 
-# Step 1
+# Step 2
 
 import requests
 
